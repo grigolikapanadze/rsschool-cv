@@ -7,7 +7,7 @@
 - **GitHub:** *[grigolikapanadze](https://github.com/grigolikapanadze)*
 # Summary
 I am currently working as an energy economist. Due to some different motivations i decided to learn Front-End development
-and found it extremely interesting. I am trying my best to gain my knownledge and achive success in future.
+and found it extremely interesting. I am trying my best to gain my knownledge and achive success in future. Believe!!!
 # Skills
 - HTML (Basic)
 - CSS (Basic)
